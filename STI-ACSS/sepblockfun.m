@@ -1,4 +1,6 @@
 function X=sepblockfun(X,blockdims,fun)
+% Written by Matt Jacobson, 2014 
+% freely downloaded from https://ww2.mathworks.cn/matlabcentral/fileexchange/48089-separable-block-wise-operations
 %Perform a separable operation on sub-blocks of an input array. Here, a function
 %op() is said to be separable if for any array B with elements B(i,j,k,...), 
 %the operation op(B(:)), resulting in a scalar, can be equivalently done by 

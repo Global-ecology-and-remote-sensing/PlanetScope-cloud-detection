@@ -9,7 +9,7 @@
 %
 % Jing Wang, Dedi Yang, Shuli Chen, Xiaolin Zhu, Shengbiao Wu, Marc Bogonovich, Zhengfei Guo, Zhe Zhu, Jin Wu*,
 % "Automatic cloud and cloud shadow detection in tropical areas for PlanetScope satellite images", 
-% Remote sensing of Enviroment, Accepted in 11/07/2021
+% Remote sensing of Enviroment, Volume 264, 2021, 112604, ISSN 0034-4257, https://doi.org/10.1016/j.rse.2021.112604. Accepted in 11/07/2021
 % 
 %% --------------- Usuage----------------------------------------------------
 %     
