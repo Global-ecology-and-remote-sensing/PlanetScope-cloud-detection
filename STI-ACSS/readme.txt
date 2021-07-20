@@ -17,6 +17,6 @@ This code is written by Matlab
 
 The main function is 'autoSTIACSS.m'
 
-The exampledata includes a time-series images (21 images, 10km*10km (3334*3334*4 pixels) per image) in a Mulga woodland in Alice Springs, Australia in 2019.
+The exampledata includes a time-series images (21 images, 10km*10km (3334*3334*4 pixels) per image) in a Mulga woodland in Alice Springs, Australia in 2019. The exampledata cannot upload temporarily, but it can be assessed by contacting me with email.
 
 More details are shown in the 'autoSTIACSS.m'
