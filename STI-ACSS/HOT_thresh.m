@@ -39,6 +39,6 @@ for i=1:size4
 %     saveas(gcf,['HOT',num2str(i),'.fig'],'fig')
     clear rep_img thre_img
 end
-nan_ind=std_dis./max(std_dis(:))<0.2 & threshold>prctile(threshold(:),80);%;10 %normalize the distance to distance/x asis value, namely sin value
-threshold(nan_ind)=mean(threshold(~nan_ind),'omitnan');% faild threshold will be set the minimum value of all thresholds in this time series
+% nan_ind=std_dis./max(std_dis(:))<0.2 & threshold>prctile(threshold(:),80);%;10 %normalize the distance to distance/x asis value, namely sin value
+% threshold(nan_ind)=mean(threshold(~nan_ind),'omitnan');% faild threshold will be set the minimum value of all thresholds in this time series
 clear rep_img thre_img
